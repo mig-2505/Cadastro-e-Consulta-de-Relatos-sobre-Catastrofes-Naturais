@@ -40,7 +40,6 @@ Cpf:...12345678901
 Data:...01/06/2025
 Gravidade:...3
 Localizacao: (-23.5505, -46.6333)
-===========================
 
 ✅ Filtrar por Distância
 Digite sua latitude: -23.5500
