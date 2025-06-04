@@ -22,37 +22,39 @@ Ao rodar o programa, será exibido o seguinte menu:
 
 🧠 Exemplos de Uso
 ✅ Cadastrando um Relato
-Qual catastrofe: enchente
-Qual regiao: zona_norte
-Digite seu CPF (apenas numeros, 11 digitos): 12345678901
-Qual data (DD/MM/AAAA): 01/06/2025
-Digite a gravidade(de 1 a 5):...3
-Digite a latitude: -23.5505
-Digite a longitude: -46.6333
+• Qual catastrofe: enchente
+• Qual regiao: zona_norte
+• Digite seu CPF (apenas numeros, 11 digitos): 12345678901
+• Qual data (DD/MM/AAAA): 01/06/2025
+• Digite a gravidade(de 1 a 5):...3
+• Digite a latitude: -23.5505
+• Digite a longitude: -46.6333
 
 ✅ Listando Relatos
 Selecionar a opção 2 mostrará:
 ====Lista de Cadastros====
 
-Tipo:...enchente
-Regiao:...zona_norte
-Cpf:...12345678901
-Data:...01/06/2025
-Gravidade:...3
-Localizacao: (-23.5505, -46.6333)
+• Tipo:...enchente
+• Regiao:...zona_norte
+• Cpf:...12345678901
+• Data:...01/06/2025
+• Gravidade:...3
+• Localizacao: (-23.5505, -46.6333)
 
 ✅ Filtrar por Distância
-Digite sua latitude: -23.5500
-Digite sua longitude: -46.6300
+• Digite sua latitude: -23.5500
+• Digite sua longitude: -46.6300
 
-Relatos em ate 10km:
+• Relatos em ate 10km:
 ...
 
-💾 Arquivo de Saída
+💾 Arquivo de Saída:
+
 Ao sair do programa, os relatos são salvos no arquivo relatos.txt no seguinte formato:
 enchente;zona_norte;12345678901;01/06/2025;3
 Obs: Apenas os dados principais são salvos no arquivo (localização não incluída)
 
 ✅Integrantes:
-Miguel Vanucci Delgado RM: 563491
-Igor Zuvela Villaça Felicio RM: 563602
+
+• Miguel Vanucci Delgado RM: 563491
+• Igor Zuvela Villaça Felicio RM: 563602
